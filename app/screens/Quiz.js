@@ -140,6 +140,7 @@ const Quiz = () =>{
         <SafeAreaView style={{
             flex: 1
         }}>
+            <Text style={{color: COLORS.black}}>Jose Armando Vazquez Garcia 5C</Text>
             <StatusBar barStyle="light-content" backgroundColor={COLORS.primary}/>
             <View style={{
                 flex:1,
